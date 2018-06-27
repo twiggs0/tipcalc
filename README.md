@@ -37,6 +37,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+It took me a while to figure out the animations but I eventually figured out how to animate the screen properly
+
 ## Credits
 
 List an 3rd party libraries, icons, graphics, or other assets you used in your app.
